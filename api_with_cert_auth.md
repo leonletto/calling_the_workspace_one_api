@@ -84,7 +84,7 @@ pip install python-dotenv cryptography requests
     * Click `Save`
     * Click `Continue` if you see a dialog pop up.
 
-    ![Account Creation 3](images/account_creation_3.png)
+    ![Account Creation 3](images/account_creation_3.png) 
     * Now fill in the certificate password once again and then click `EXPORT CERTIFICATE`
 
     ![Account Creation 4](images/account_creation_4.png)
